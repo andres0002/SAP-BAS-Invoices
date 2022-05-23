@@ -1,0 +1,7 @@
+<mvc:View controllerName="projects.invoices.controller.MainView"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content><Text id="_IDGenText1" text="Hello World!">Hello World!</Text> </content>
+    </Page>
+</mvc:View>
